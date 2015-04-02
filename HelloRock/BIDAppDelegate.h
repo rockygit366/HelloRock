@@ -2,7 +2,7 @@
 //  BIDAppDelegate.h
 //  HelloRock
 //
-//  Created by Rocky on 13/1/22.
+//  Created by Rocky on 13/1/22. Yes
 //  Copyright (c) 2013年 Rocky. All rights reserved.
 //
 
